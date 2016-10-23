@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="Django db23">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+    <schema id="1" name="learn">
+      <visible>1</visible>
+    </schema>
+    <schema id="2" name=" thesis"/>
+    <schema id="3" name="bitnami_wordpress"/>
+    <schema id="4" name="bookstore"/>
+    <schema id="5" name="ccpc"/>
+    <schema id="6" name="food"/>
+    <schema id="7" name="information_schema"/>
+    <schema id="8" name="mysql"/>
+    <schema id="9" name="performance_schema"/>
+    <schema id="10" name="python"/>
+    <schema id="11" name="seckill"/>
+    <schema id="12" name="seckill2"/>
+    <schema id="13" name="sy"/>
+    <schema id="14" name="sys"/>
+    <schema id="15" name="tsystem"/>
+    <schema id="16" name="we_shop"/>
+    <schema id="17" name="zx_db"/>
+  </database-model>
+</dataSource>

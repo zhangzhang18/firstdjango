@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="bace6ca2-5dca-4d4b-be58-942f33800bb8">
+      <database-info product="SQLite" version="3.8.11" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <auth-required>false</auth-required>
+      <legacy-introspector>true</legacy-introspector>
+    </data-source>
+    <data-source name="Django db2" uuid="4719d010-70ea-4351-b1c5-9cbd1b4c7189">
+      <database-info product="MySQL" version="5.7.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <resolve-scope>mysql:</resolve-scope>
+    </data-source>
+    <data-source name="Django db1" uuid="2500d221-bfa0-429a-b83d-f45cc0277a27">
+      <database-info product="MySQL" version="5.7.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <resolve-scope>mysql:</resolve-scope>
+    </data-source>
+    <data-source name="Django default2" uuid="6773b0c6-94f3-4aaa-9271-ccbb0c26dc64">
+      <database-info product="MySQL" version="5.7.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <introspection-scope>python:</introspection-scope>
+      <resolve-scope>python:</resolve-scope>
+    </data-source>
+    <data-source name="Django default3" uuid="00265723-476a-466b-b620-3ca9d2dee009">
+      <database-info product="MySQL" version="5.7.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <introspection-scope>python:</introspection-scope>
+      <resolve-scope>python:</resolve-scope>
+    </data-source>
+    <data-source name="Django db12" uuid="03fda643-8946-4d54-bc37-f54c2ae18e4c">
+      <database-info product="MySQL" version="5.7.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <introspection-scope>food:</introspection-scope>
+      <resolve-scope>food:</resolve-scope>
+    </data-source>
+    <data-source name="Django db22" uuid="1de40adb-48ac-44e3-b72c-1bf6b369579e">
+      <database-info product="MySQL" version="5.7.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <introspection-scope>learn:</introspection-scope>
+      <resolve-scope>learn:</resolve-scope>
+    </data-source>
+    <data-source name="Django db13" uuid="0b2a5bd6-601e-4450-9c7a-232be9e64f7b">
+      <database-info product="MySQL" version="5.7.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <introspection-scope>food:</introspection-scope>
+      <resolve-scope>food:</resolve-scope>
+    </data-source>
+    <data-source name="Django db23" uuid="5566c550-26bf-426e-bfa8-0ed4219982e0">
+      <database-info product="MySQL" version="5.7.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <introspection-scope>learn:</introspection-scope>
+      <resolve-scope>learn:</resolve-scope>
+    </data-source>
+    <data-source name="Django default4" uuid="46e86ebf-6b37-4a83-bc75-6874a59da170">
+      <database-info product="MySQL" version="5.7.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <introspection-scope>python:</introspection-scope>
+      <resolve-scope>python:</resolve-scope>
+    </data-source>
+  </component>
+</project>
