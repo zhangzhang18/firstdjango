@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>home</title>
+</head>
+<body>
+
+First django
+{% for key, value in info_dict.items %}
+    {{ key }}: {{ value }}
+{% endfor %}
+<br>
+<a href="{% url 'add2' 4 5 %}">link</a>
+{% url 'add2' 4 5 %}<br>
+{% url 'add2' 4 6 as the_url %}
+<a href="{{ the_url }}">链接到：{{ the_url }}</a><br>
+{{ request.path }},{{ request.GET.urlencode }}<br>
+{{ request.user }}
+<a href="{{ request.path }}?{{ request.GET.urlencode }}&delete=1">当前网址加参数 delete</a>
+
+<form action="/add/" method="get">
+    a: <input type="text" name="a"> <br>
+    b: <input type="text" name="b"> <br>
+
+    <input type="submit" value="提交">
+</form>
+
+<a href="{% url 'index' %}">link</a>
+{% url 'index' %}<br>
+</body>
+</html>
